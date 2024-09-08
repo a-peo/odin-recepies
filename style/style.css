@@ -1,0 +1,36 @@
+body {
+    background: rgb(36, 36, 36);
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 70px;
+    color: white;
+    font-weight: 800;
+    background-color: rgb(93, 93, 93);
+}
+
+
+.tagline {
+    text-align: right;
+    color: aliceblue;
+    font-size: 20px;
+    
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-decoration: underline;
+    color: white;
+    font-weight: 500;
+    background-color: rgb(93, 93, 93);
+}
+
+img {
+    padding-inline-start: 3%;
+    padding-top: 3%;
+    height: 350px;
+    width: 350px;
+}
